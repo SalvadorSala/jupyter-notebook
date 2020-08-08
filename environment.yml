@@ -6,4 +6,4 @@ dependencies:
   - matplotlib
   - scipy
   - ipywidgets
-  - bpplot
+  - bqplot
